@@ -9,6 +9,6 @@ I am Aaditya Nair
   - [Instagram](https://www.instagram.com/aadityanair0/)
   - [Twitter](https://twitter.com/Aaditya_141918)
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adijams01&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/adijams01/github-readme-stats)
+[![Aaditya's github stats](https://github-readme-stats.vercel.app/api?username=ad5454&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/adijams01/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adijams01)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad5454)](https://github.com/anuraghazra/github-readme-stats)
