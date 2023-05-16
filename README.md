@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I am Aaditya Nair<br><br>I am a mechatronics engineer with a passion for solving complex problems and creating innovative solutions.I am always looking to expand my skillset and stay up to date with the latest trends and technologies in the industry. In my free time, I enjoy contributing to open-source projects . Feel free to check out my GitHub profile to see some of my projects and contributions.<br>I'm currently studying Mechatronics 🤖 from SRMIST 🏫<br>I am currently learning 📜 Deep learning and neural networks.<br>
+Hi there 👋<br>I am Aaditya Nair<br><br>I am a mechatronics engineer with a passion for solving complex problems and creating innovative solutions.I am always looking to expand my skillset and stay up to date with the latest trends and technologies in the industry. In my free time, I enjoy contributing to open-source projects. Feel free to check out my GitHub profile to see some of my projects and contributions.<br>I'm currently studying Mechatronics 🤖 from SRMIST 🏫<br>I am currently learning 📜 Deep learning and neural networks.<br>
 
 
 ## 🌐 Socials:
