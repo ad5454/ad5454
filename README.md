@@ -4,9 +4,9 @@ Hi there 👋<br>I am Aaditya Nair<br><br>I am a mechatronics engineer with a pa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adityajambhale4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityajambhale4" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aditya-jambhale-20b868223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya jambhale" height="30" width="40" /></a>
-<a href="https://instagram.com/iamadityajams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamadityajams" height="30" width="40" /></a>
+<a href="https://twitter.com/Aaditya_010902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityajambhale4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aaditya-nair-83a670229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya jambhale" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aadityanair0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamadityajams" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/the_6atman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="the_6atman" height="30" width="40" /></a>
 </p>
 
@@ -18,9 +18,4 @@ Hi there 👋<br>I am Aaditya Nair<br><br>I am a mechatronics engineer with a pa
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ad5454&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad5454&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ad5454&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
