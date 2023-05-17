@@ -16,6 +16,6 @@ Hi there 👋<br>I am Aaditya Nair<br><br>I am a mechatronics engineer with a pa
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ad5454&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ad5454&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad5454&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad5454&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
