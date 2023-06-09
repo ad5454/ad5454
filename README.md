@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi there 👋<br>I am Aaditya Nair<br><br>I am a mechatronics engineer with a passion for solving complex problems and creating innovative solutions.I am always looking to expand my skillset and stay up to date with the latest trends and technologies in the industry. In my free time, I enjoy contributing to open-source projects. Feel free to check out my GitHub profile to see some of my projects and contributions.<br>I'm currently studying Mechatronics 🤖 from SRMIST 🏫<br>I am currently learning 📜 Deep learning and neural networks.<br>
+Hi there 👋<br>Mechatronic Engineering student passionate about robotics, machine learning, and self-driving car technology. Currently pursuing B.tech inmechatronics and also a value-added course on self-driving cars, engaging in project-based learning to develop expertise in autonomous vehicle systems. Experienced in Python programming, basic machine learning techniques, and Arduino coding for projects.Also Proficient in the basic functioning of links in robotic arms.
+
+Driven by a desire to innovate, I have successfully completed projects in diverse areas. I developed a robotic arm, showcasing my ability to apply engineering principles and programming skills to create functional and precise robotic systems. Additionally, I have worked on projects involving food recognition, leveraging computer vision techniques to identify and categorize food items.
+
+Currently, I am actively involved in a self-driving car course, where I have completed projects such as lane line detection and traffic signal classification. Through these projects, I have applied Python, computer vision algorithms, and machine learning models to solve real-world challenges in autonomous driving. Notable achievements include achieving high accuracy in lane line tracking and developing a traffic signal classification system with 98% accuracy.
+
+Committed to continuous learning and professional growth, I embrace project-based learning as a way to gain hands-on experience and develop practical skills. I thrive in collaborative environments and enjoy working with multidisciplinary teams to deliver innovative solutions.
+
+If you are seeking a motivated engineering student with a passion for robotics and self-driving cars, let's connect and explore opportunities to contribute to the exciting field of autonomous technologies."
 
 
 <h3 align="left">Connect with me:</h3>
