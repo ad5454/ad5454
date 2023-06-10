@@ -12,9 +12,9 @@ If you are seeking a motivated engineering student with a passion for robotics a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Aaditya_010902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaditya nair" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aaditya-nair-83a670229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya nair" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aadityanair0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaditya nair" height="30" width="40" /></a>
+<a href="https://twitter.com/Aaditya_010902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aaditya-nair-83a670229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+<a href="https://www.instagram.com/aadityanair0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aadi1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="the_6atman" height="30" width="40" /></a>
 </p>
 
