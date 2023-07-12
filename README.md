@@ -15,7 +15,7 @@ If you are seeking a motivated engineering student with a passion for robotics a
 <a href="https://twitter.com/Aaditya_010902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aaditya-nair-83a670229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://www.instagram.com/aadityanair0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"height="30" width="40" /></a>
-<a href="https://open.kattis.com/users/aaditya-nair" target="blank"><img align="center" src="https://github.com/ad5454/ad5454/assets/96897186/fb3079be-862e-47dc-9ac3-2fa9193936df.svg" height="30" width="40" /></a>
+<a href="https://open.kattis.com/users/aaditya-nair" target="blank"><img align="center" src="https://github.com/ad5454/ad5454/assets/96897186/fb3079be-862e-47dc-9ac3-2fa9193936df" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
