@@ -1,18 +1,14 @@
 # 💫 About Me:
-Hi there 👋<br>
-I am Aaditya Nair
-I am a Mechatronic Engineering student passionate about robotics, machine learning, and self-driving car technology. Currently pursuing B.tech inmechatronics and also a value-added course on self-driving cars, engaging in project-based learning to develop expertise in autonomous vehicle systems. Experienced in Python programming, basic machine learning techniques, open CV and Arduino coding for projects.
+Hey there! 👋
 
-Driven by a desire to innovate, I have successfully completed projects in diverse areas. Currently, I am actively involved in a self-driving car course, where I have completed projects such as lane line detection and traffic signal classification. Through these projects, I have applied Python, computer vision algorithms, and machine learning models to solve real-world challenges in autonomous driving.
+I'm Aaditya Nair, a Mechatronic Engineering student deeply intrigued by robotics, machine learning, and the vast potentials of technology. I find joy in delving into AI applications, particularly in computer vision using TensorFlow. Proficient in Python and experienced in ROS, I'm adept at crafting innovative tech solutions.
 
-Committed to continuous learning and professional growth, I embrace project-based learning as a way to gain hands-on experience and develop practical skills. I thrive in collaborative environments and enjoy working with multidisciplinary teams to deliver innovative solutions.
+Beyond tech realms, I'm equally invested in effective leadership and teamwork. I believe in the fusion of continuous learning with management skills to drive impactful projects.
 
-If you are seeking a motivated engineering student with a passion for robotics and self-driving cars, let's connect and explore opportunities to contribute to the exciting field of autonomous technologies."
-
+If you're seeking an enthusiastic engineering student passionate about robotics, machine learning, skilled in ROS, and committed to merging technical excellence with effective leadership, let's connect! Together, let's explore new horizons of innovation.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Aaditya_010902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aaditya-nair-83a670229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://www.instagram.com/aadityanair0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"height="30" width="40" /></a>
 </p>
