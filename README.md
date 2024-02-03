@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there! 👋
 
-I'm Aaditya Nair, a Mechatronic Engineering student deeply intrigued by robotics, machine learning, and the vast potentials of technology. I find joy in delving into AI applications, particularly in computer vision using TensorFlow. Proficient in Python and experienced in ROS, I'm adept at crafting innovative tech solutions.
+I'm Aaditya Nair, a Mechatronic Engineering student deeply intrigued by robotics, machine learning, and the vast potentials of technology. I find joy in delving into AI applications, particularly in computer vision using TensorFlow. Proficient in Python and currently learning ROS, I'm interested at crafting innovative tech solutions.
 
 Beyond tech realms, I'm equally invested in effective leadership and teamwork. I believe in the fusion of continuous learning with management skills to drive impactful projects.
 
