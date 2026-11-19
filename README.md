@@ -1,24 +1,67 @@
-# 💫 About Me:
-Hey there! 👋
+<div align="center">
 
-I'm Aaditya Nair, a Mechatronic Engineering student deeply intrigued by robotics, machine learning, and the vast potentials of technology. I find joy in delving into AI applications, particularly in computer vision using TensorFlow. Proficient in Python and currently learning ROS, I'm interested at crafting innovative tech solutions.
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/hero.svg" alt="Aaditya Nair — Mechatronics Engineer" width="100%"/>
 
-Beyond tech realms, I'm equally invested in effective leadership and teamwork. I believe in the fusion of continuous learning with management skills to drive impactful projects.
+<br/>
 
-If you're seeking an enthusiastic engineering student passionate about robotics, machine learning, skilled in ROS, and committed to merging technical excellence with effective leadership, let's connect! Together, let's explore new horizons of innovation.
+<a href="https://www.linkedin.com/in/aaditya-nair-83a670229/"><img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/btn-linkedin.svg" alt="LinkedIn" height="44"/></a>
+<a href="mailto:voidbox2002@gmail.com"><img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/btn-email.svg" alt="Email" height="44"/></a>
+<a href="https://www.instagram.com/aadityanair0/"><img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/btn-instagram.svg" alt="Instagram" height="44"/></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aaditya-nair-83a670229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
-<a href="https://www.instagram.com/aadityanair0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"height="30" width="40" /></a>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/h-about.svg" alt="01 About" width="100%"/>
+
+I'm a **Mechatronics Engineer** working across mechanical design, embedded control and machine perception. Most of my work is in **autonomous mobile robotics**: a self-driving e-scooter and an underwater robot, with steering and sensor mounts designed in Fusion 360 and validated with ANSYS simulation.
+
+- 🤖 Building **autonomous mobile robots**, from CAD to control to perception
+- 👁️ Computer vision with **TensorFlow**: lane detection, traffic signs, vehicle detection, behavioural cloning
+- 🔭 Currently deepening my work in **ROS2** and robot simulation
+- 💬 Open to collaborations, research and engineering roles. Let's connect!
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/h-skills.svg" alt="02 Skills" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/skills.svg" alt="Skills: Python, C, TensorFlow, OpenCV, ROS2, Arduino, Docker, SolidWorks, Fusion 360, MATLAB, ANSYS, MuJoCo" width="100%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/h-projects.svg" alt="03 Projects" width="100%"/>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/card-scooter.svg" alt="Self-driving e-scooter" width="32%"/>
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/card-underwater.svg" alt="Underwater robot" width="32%"/>
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/card-vision.svg" alt="Computer vision suite" width="32%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
+<br/>
 
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/h-certs.svg" alt="04 Training" width="100%"/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ad5454&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ad5454&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad5454&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/certs.svg" alt="Certifications and training" width="100%"/>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/h-live.svg" alt="05 Live activity" width="100%"/>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ad5454&bg_color=0e0e0d&color=a09b90&line=ff5a1f&point=f3efe8&area=true&area_color=ff5a1f&hide_border=true&radius=16" alt="Contribution activity graph" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ad5454&show_icons=true&hide_border=true&bg_color=0e0e0d&title_color=ff5a1f&icon_color=ff5a1f&text_color=f3efe8&border_radius=16" alt="GitHub stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad5454&layout=compact&hide_border=true&bg_color=0e0e0d&title_color=ff5a1f&text_color=f3efe8&border_radius=16" alt="Top languages" height="170"/>
+</p>
+
+<!-- OPTIONAL: contribution snake. Uncomment AFTER the "Generate Snake" workflow has run once (Actions tab).
+<p align="center">
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
+</p>
+-->
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/footer.svg" alt="Let's build something." width="100%"/>
