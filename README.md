@@ -6,15 +6,13 @@
 
 <a href="https://www.linkedin.com/in/aaditya-nair-83a670229/"><img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/btn-linkedin.svg" alt="LinkedIn" height="44"/></a>
 <a href="mailto:voidbox2002@gmail.com"><img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/btn-email.svg" alt="Email" height="44"/></a>
-<a href="https://www.instagram.com/aadityanair0/"><img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/btn-instagram.svg" alt="Instagram" height="44"/></a>
+<a href="https://www.threads.com/@aadityanair0"><img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/btn-instagram.svg" alt="Instagram" height="44"/></a>
 
 </div>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/ad5454/ad5454/main/assets/h-about.svg" alt="01 About" width="100%"/>
-
-I'm a **Mechatronics Engineer** working across mechanical design, embedded control and machine perception. Most of my work is in **autonomous mobile robotics**: a self-driving e-scooter and an underwater robot, with steering and sensor mounts designed in Fusion 360 and validated with ANSYS simulation.
 
 - 🤖 Building **autonomous mobile robots**, from CAD to control to perception
 - 👁️ Computer vision with **TensorFlow**: lane detection, traffic signs, vehicle detection, behavioural cloning
