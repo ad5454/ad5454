@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="240" viewBox="0 0 300 240" fill="none" role="img">
+<style>
+text{font-family:'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+
+.sc{animation:sc 1.6s linear infinite}@keyframes sc{to{stroke-dashoffset:-48}}
+.bob{animation:bob 4s ease-in-out infinite}@keyframes bob{50%{transform:translateY(8px)}}.pr{animation:pr .35s ease-in-out infinite alternate}@keyframes pr{from{transform:scaleY(1)}to{transform:scaleY(-1)}}.so{transform-origin:205px 76px;animation:ring 2.6s ease-out infinite;opacity:0}.s2{animation-delay:1.3s}@keyframes ring{0%{transform:scale(.5);opacity:.9}100%{transform:scale(5);opacity:0}}.bb{opacity:0;animation:up 4s linear infinite}.b2{animation-delay:1s}.b3{animation-delay:2s}.b4{animation-delay:3s}@keyframes up{0%{transform:translateY(0);opacity:0}15%{opacity:.8}100%{transform:translateY(-80px);opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" stroke="#2a2a27" stroke-width="1"/></pattern>
+<clipPath id="cp"><rect x=".5" y=".5" width="299" height="239" rx="16"/></clipPath></defs>
+<rect x=".5" y=".5" width="299" height="239" rx="16" fill="#161614" stroke="#2a2a27"/>
+<g clip-path="url(#cp)"><rect width="300" height="150" fill="#101010"/><rect width="300" height="150" fill="url(#g)" opacity=".8"/>
+
+<path d="M0 22q25-8 50 0t50 0 50 0 50 0 50 0 50 0" stroke="#a09b90" opacity=".5"/>
+<path d="M0 30q25-8 50 0t50 0 50 0 50 0 50 0 50 0" stroke="#a09b90" opacity=".25"/>
+<g class="bob">
+<path d="M64 76L48 62V90Z" fill="#161614" stroke="#f3efe8"/>
+<ellipse cx="140" cy="76" rx="68" ry="26" fill="#161614" stroke="#ff5a1f" stroke-width="1.8"/>
+<path d="M120 50V40h26v10" stroke="#f3efe8"/>
+<circle cx="196" cy="76" r="9" stroke="#f3efe8"/><circle cx="196" cy="76" r="3" fill="#ff5a1f"/>
+<g class="pr" style="transform-origin:62px 76px"><path d="M62 60V92" stroke="#ff5a1f" stroke-width="2.5" stroke-linecap="round"/></g>
+<circle class="so" cx="205" cy="76" r="10" stroke="#ff5a1f"/><circle class="so s2" cx="205" cy="76" r="10" stroke="#ff5a1f"/>
+</g>
+<circle class="bb" cx="90" cy="110" r="3" stroke="#f3efe8"/><circle class="bb b2" cx="120" cy="125" r="2.2" stroke="#f3efe8"/><circle class="bb b3" cx="160" cy="118" r="3.4" stroke="#f3efe8"/><circle class="bb b4" cx="60" cy="122" r="2" stroke="#f3efe8"/>
+<text class="m" x="20" y="140" font-size="8.5" letter-spacing="1.5" fill="#a09b90">HULL · SENSOR MOUNTS</text>
+
+<line x1="0" y1="150" x2="300" y2="150" stroke="#2a2a27"/></g>
+<text class="m" x="20" y="176" font-size="10" letter-spacing="2" fill="#a09b90">MARINE ROBOTICS</text>
+<text x="20" y="203" font-size="21" font-weight="700" letter-spacing="-.5" fill="#f3efe8">Underwater robot</text>
+<text class="m" x="20" y="226" font-size="10.5" letter-spacing="1" fill="#ff5a1f">FUSION 360 · ANSYS</text>
+
+</svg>

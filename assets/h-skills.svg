@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" viewBox="0 0 900 60" fill="none" role="img">
+<style>
+text{font-family:'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+.dot{animation:run 5s ease-in-out infinite}@keyframes run{0%{transform:translateX(0);opacity:0}10%{opacity:1}90%{opacity:1}100%{transform:translateX(712px);opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<text class="m" x="2" y="38" font-size="13" letter-spacing="2" fill="#ff5a1f">02</text>
+<text x="44" y="42" font-size="30" font-weight="700" letter-spacing="-1" fill="#f3efe8">Skills</text>
+<line x1="186" y1="30" x2="898" y2="30" stroke="#2a2a27"/>
+<circle class="dot" cx="186" cy="30" r="3.5" fill="#ff5a1f"/>
+
+</svg>

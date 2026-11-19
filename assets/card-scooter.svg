@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="240" viewBox="0 0 300 240" fill="none" role="img">
+<style>
+text{font-family:'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+
+.sc{animation:sc 1.6s linear infinite}@keyframes sc{to{stroke-dashoffset:-48}}
+.wh{animation:rot 1.4s linear infinite}@keyframes rot{to{transform:rotate(360deg)}}.rg{transform-origin:231px 51px;animation:ring 2.4s ease-out infinite;opacity:0}.r2{animation-delay:.8s}.r3{animation-delay:1.6s}@keyframes ring{0%{transform:scale(.6);opacity:.9}100%{transform:scale(7);opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" stroke="#2a2a27" stroke-width="1"/></pattern>
+<clipPath id="cp"><rect x=".5" y=".5" width="299" height="239" rx="16"/></clipPath></defs>
+<rect x=".5" y=".5" width="299" height="239" rx="16" fill="#161614" stroke="#2a2a27"/>
+<g clip-path="url(#cp)"><rect width="300" height="150" fill="#101010"/><rect width="300" height="150" fill="url(#g)" opacity=".8"/>
+
+<line x1="0" y1="119" x2="300" y2="119" stroke="#a09b90" opacity=".5"/>
+<line class="sc road" x1="0" y1="132" x2="340" y2="132" stroke="#a09b90" stroke-width="2" stroke-dasharray="24 24"/>
+<g class="wh" style="transform-origin:88px 101px"><circle cx="88" cy="101" r="18" stroke="#f3efe8" stroke-width="1.5"/>
+<path d="M70 101H106M88 83V119M75.3 88.3L100.7 113.7M100.7 88.3L75.3 113.7" stroke="#ff5a1f" stroke-width="1"/></g><g class="wh" style="transform-origin:208px 101px"><circle cx="208" cy="101" r="18" stroke="#f3efe8" stroke-width="1.5"/>
+<path d="M190 101H226M208 83V119M195.3 88.3L220.7 113.7M220.7 88.3L195.3 113.7" stroke="#ff5a1f" stroke-width="1"/></g>
+<path d="M88 101L112 88H196L208 101" stroke="#f3efe8" stroke-width="2" stroke-linejoin="round"/>
+<path d="M196 88L226 34M216 34H244" stroke="#f3efe8" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="224" y="46" width="14" height="10" rx="2" fill="#161614" stroke="#ff5a1f"/>
+<circle class="rg" cx="231" cy="51" r="6" stroke="#ff5a1f"/><circle class="rg r2" cx="231" cy="51" r="6" stroke="#ff5a1f"/><circle class="rg r3" cx="231" cy="51" r="6" stroke="#ff5a1f"/>
+<text class="m" x="20" y="28" font-size="8.5" letter-spacing="1.5" fill="#a09b90">LIDAR · STEERING MOUNT</text>
+<circle cx="14" cy="25" r="3" fill="#ff5a1f"/>
+
+<line x1="0" y1="150" x2="300" y2="150" stroke="#2a2a27"/></g>
+<text class="m" x="20" y="176" font-size="10" letter-spacing="2" fill="#a09b90">AUTONOMOUS MOBILITY</text>
+<text x="20" y="203" font-size="21" font-weight="700" letter-spacing="-.5" fill="#f3efe8">Self-driving e-scooter</text>
+<text class="m" x="20" y="226" font-size="10.5" letter-spacing="1" fill="#ff5a1f">FUSION 360 · ANSYS · AUTONOMY</text>
+
+</svg>
