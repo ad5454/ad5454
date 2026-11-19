@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="48" viewBox="0 0 160 48" fill="none" role="img">
+<style>
+text{font-family:'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+.b{animation:go 3.2s linear infinite}@keyframes go{to{stroke-dashoffset:-388}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<rect x="1" y="1" width="158" height="46" rx="23" fill="#161614" stroke="#2a2a27"/>
+<rect class="b" x="1" y="1" width="158" height="46" rx="23" stroke="#ff5a1f" stroke-width="1.6" stroke-dasharray="52 336" stroke-linecap="round"/>
+<g transform="translate(24 12)" stroke="#ff5a1f" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="1" width="22" height="22" rx="5"/><path d="M7 10v7M7 7v.01M11.5 17v-7M11.5 13a3 3 0 016 0v4"/></g>
+<text x="58" y="29" font-size="15" font-weight="600" fill="#f3efe8">LinkedIn</text>
+</svg>

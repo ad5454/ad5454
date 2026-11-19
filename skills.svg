@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="238" viewBox="0 0 900 238" fill="none" role="img">
+<style>
+text{font-family:'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+.c{opacity:0;animation:rise .7s ease-out forwards}@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}.d{animation:dp 2.6s ease-in-out infinite}@keyframes dp{50%{opacity:.35}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="289" height="111" rx="16" fill="#161614" stroke="#2a2a27"/><rect x="22" y="23" width="6" height="6" fill="#ff5a1f"/><text class="m" x="36" y="30" font-size="11" letter-spacing="2" fill="#a09b90">LANGUAGES</text><g class="c" style="animation-delay:0.00s"><rect x="18" y="56" width="84" height="36" rx="18" fill="#1d1d1a" stroke="#2a2a27"/>
+<circle class="d" style="animation-delay:0.0s" cx="35" cy="74" r="4.5" fill="#3776AB"/>
+<text x="47" y="79" font-size="13.5" font-weight="600" fill="#f3efe8">Python</text></g><g class="c" style="animation-delay:0.12s"><rect x="110" y="56" width="47" height="36" rx="18" fill="#1d1d1a" stroke="#2a2a27"/>
+<circle class="d" style="animation-delay:0.3s" cx="127" cy="74" r="4.5" fill="#5B9BD5"/>
+<text x="139" y="79" font-size="13.5" font-weight="600" fill="#f3efe8">C</text></g><rect x="305.5" y="0.5" width="289" height="111" rx="16" fill="#161614" stroke="#2a2a27"/><rect x="327" y="23" width="6" height="6" fill="#ff5a1f"/><text class="m" x="341" y="30" font-size="11" letter-spacing="2" fill="#a09b90">MACHINE LEARNING &amp; VISION</text><g class="c" style="animation-delay:0.24s"><rect x="323" y="56" width="114" height="36" rx="18" fill="#1d1d1a" stroke="#2a2a27"/>
+<circle class="d" style="animation-delay:0.6s" cx="340" cy="74" r="4.5" fill="#FF6F00"/>
+<text x="352" y="79" font-size="13.5" font-weight="600" fill="#f3efe8">TensorFlow</text></g><g class="c" style="animation-delay:0.36s"><rect x="445" y="56" width="84" height="36" rx="18" fill="#1d1d1a" stroke="#2a2a27"/>
+<circle class="d" style="animation-delay:0.9s" cx="462" cy="74" r="4.5" fill="#7C5CFF"/>
+<text x="474" y="79" font-size="13.5" font-weight="600" fill="#f3efe8">OpenCV</text></g><rect x="610.5" y="0.5" width="289" height="111" rx="16" fill="#161614" stroke="#2a2a27"/><rect x="632" y="23" width="6" height="6" fill="#ff5a1f"/><text class="m" x="646" y="30" font-size="11" letter-spacing="2" fill="#a09b90">ROBOTICS &amp; EMBEDDED</text><g class="c" style="animation-delay:0.48s"><rect x="628" y="56" width="69" height="36" rx="18" fill="#1d1d1a" stroke="#2a2a27"/>
+<circle class="d" style="animation-delay:1.2s" cx="645" cy="74" r="4.5" fill="#5AA9E6"/>
+<text x="657" y="79" font-size="13.5" font-weight="600" fill="#f3efe8">ROS2</text></g><g class="c" style="animation-delay:0.60s"><rect x="705" y="56" width="91" height="36" rx="18" fill="#1d1d1a" stroke="#2a2a27"/>
+<circle class="d" style="animation-delay:1.5s" cx="722" cy="74" r="4.5" fill="#00A7B0"/>
+<text x="734" y="79" font-size="13.5" font-weight="600" fill="#f3efe8">Arduino</text></g><g class="c" style="animation-delay:0.72s"><rect x="804" y="56" width="84" height="36" rx="18" fill="#1d1d1a" stroke="#2a2a27"/>
+<circle class="d" style="animation-delay:1.8s" cx="821" cy="74" r="4.5" fill="#2496ED"/>
+<text x="833" y="79" font-size="13.5" font-weight="600" fill="#f3efe8">Docker</text></g><rect x="0.5" y="127.5" width="899" height="111" rx="16" fill="#161614" stroke="#2a2a27"/><rect x="22" y="150" width="6" height="6" fill="#ff5a1f"/><text class="m" x="36" y="157" font-size="11" letter-spacing="2" fill="#a09b90">DESIGN &amp; SIMULATION</text><g class="c" style="animation-delay:0.84s"><rect x="18" y="183" width="114" height="36" rx="18" fill="#1d1d1a" stroke="#2a2a27"/>
+<circle class="d" style="animation-delay:2.1s" cx="35" cy="201" r="4.5" fill="#E5484D"/>
+<text x="47" y="206" font-size="13.5" font-weight="600" fill="#f3efe8">SolidWorks</text></g><g class="c" style="animation-delay:0.96s"><rect x="140" y="183" width="114" height="36" rx="18" fill="#1d1d1a" stroke="#2a2a27"/>
+<circle class="d" style="animation-delay:2.4s" cx="157" cy="201" r="4.5" fill="#FF8A3D"/>
+<text x="169" y="206" font-size="13.5" font-weight="600" fill="#f3efe8">Fusion 360</text></g><g class="c" style="animation-delay:1.08s"><rect x="262" y="183" width="84" height="36" rx="18" fill="#1d1d1a" stroke="#2a2a27"/>
+<circle class="d" style="animation-delay:2.7s" cx="279" cy="201" r="4.5" fill="#E9822B"/>
+<text x="291" y="206" font-size="13.5" font-weight="600" fill="#f3efe8">MATLAB</text></g><g class="c" style="animation-delay:1.20s"><rect x="354" y="183" width="77" height="36" rx="18" fill="#1d1d1a" stroke="#2a2a27"/>
+<circle class="d" style="animation-delay:3.0s" cx="371" cy="201" r="4.5" fill="#FFB71B"/>
+<text x="383" y="206" font-size="13.5" font-weight="600" fill="#f3efe8">ANSYS</text></g><g class="c" style="animation-delay:1.32s"><rect x="439" y="183" width="84" height="36" rx="18" fill="#1d1d1a" stroke="#2a2a27"/>
+<circle class="d" style="animation-delay:3.3s" cx="456" cy="201" r="4.5" fill="#9B7BFF"/>
+<text x="468" y="206" font-size="13.5" font-weight="600" fill="#f3efe8">MuJoCo</text></g>
+</svg>

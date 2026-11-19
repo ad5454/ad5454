@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" fill="none" role="img">
+<style>
+text{font-family:'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+.p{transform-origin:450px 34px;animation:p 2s ease-in-out infinite}@keyframes p{50%{transform:scale(1.6);opacity:.4}}.w{animation:w 6s ease-in-out infinite}@keyframes w{0%,100%{transform:translateX(-330px)}50%{transform:translateX(330px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<line x1="0" y1="2" x2="900" y2="2" stroke="#2a2a27"/>
+<g clip-path="url(#c)"><rect class="w" x="450" y="1" width="120" height="3" rx="1.5" fill="#ff5a1f"/></g>
+<defs><clipPath id="c"><rect width="900" height="6"/></clipPath></defs>
+<circle class="p" cx="450" cy="34" r="4" fill="#ff5a1f"/>
+<text class="m" x="450" y="62" text-anchor="middle" font-size="11" letter-spacing="3" fill="#a09b90">OPEN TO COLLABORATIONS</text>
+<text x="450" y="106" text-anchor="middle" font-size="34" font-weight="700" letter-spacing="-1" fill="#f3efe8">Let’s build something.</text>
+
+</svg>
